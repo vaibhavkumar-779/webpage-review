@@ -2,39 +2,39 @@
 const reviews = [
   {
     id: 1,
-    name: "susan smith",
+    name: "Vaibhav 1",
     job: "web developer",
     img:
       "vk.jpg",
     text:
-      "I'm a python developer and Js too. Bicycling is nice hobby and promoted well by this group. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+      "I'm  defense lover, book worm , adventure freak. life is not long or short , it is way of percieving it and making the moving and the thinking",
   },
   {
     id: 2,
-    name: "anna johnson",
+    name: "shiwang kumar",
     job: "web designer",
     img:
       "sk.jpg",
     text:
-      "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
+      "gaming is love , can spend hours watching cartoons and playing.life is joke but jokes are even harsh for people who leave humour behind and only are in their thoughts",
   },
   {
     id: 3,
-    name: "peter jones",
+    name: "Vamaneshwar",
     job: "intern",
     img:
       "vk1.jpg",
     text:
-      "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
+      "python development is love.starting  is most hard part of something rest comes ahead itself",
   },
   {
     id: 4,
-    name: "bill anderson",
+    name: "sureal creator",
     job: "the boss",
     img:
     "sk1.jpg",
   text:
-    "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+    "would love to visit sweets shops and eat food as i am a foodie. not junk food but healthy diet , vibrant sporting is my way of life ",
 },
 ];
 // select items
